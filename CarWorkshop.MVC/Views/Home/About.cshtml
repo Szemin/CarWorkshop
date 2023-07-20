@@ -1,0 +1,17 @@
+﻿@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h3>@ViewData["Title"]</h3>
+<h1>@Model.Title</h1>
+<div class="alert alert-danger">@Model.Description</div>
+
+<p>Tags:</p>
+
+
+@foreach (var tag in Model.Tags)
+{
+    <li>@tag</li>
+}
+
+@Model 
