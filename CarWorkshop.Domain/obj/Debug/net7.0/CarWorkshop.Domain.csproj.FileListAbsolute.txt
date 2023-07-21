@@ -1,0 +1,12 @@
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\bin\Debug\net7.0\CarWorkshop.Domain.deps.json
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\bin\Debug\net7.0\CarWorkshop.Domain.dll
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\bin\Debug\net7.0\CarWorkshop.Domain.pdb
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.csproj.AssemblyReference.cache
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.AssemblyInfoInputs.cache
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.AssemblyInfo.cs
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.csproj.CoreCompileInputs.cache
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.dll
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\refint\CarWorkshop.Domain.dll
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\CarWorkshop.Domain.pdb
+P:\Solucje\CarWorkshop\CarWorkshop.Domain\obj\Debug\net7.0\ref\CarWorkshop.Domain.dll

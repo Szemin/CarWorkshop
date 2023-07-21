@@ -29,3 +29,8 @@ P:\Solucje\CarWorkshop\CarWorkshop.MVC\obj\Debug\net7.0\refint\CarWorkshop.MVC.d
 P:\Solucje\CarWorkshop\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.pdb
 P:\Solucje\CarWorkshop\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.genruntimeconfig.cache
 P:\Solucje\CarWorkshop\CarWorkshop.MVC\obj\Debug\net7.0\ref\CarWorkshop.MVC.dll
+P:\Solucje\CarWorkshop\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Application.dll
+P:\Solucje\CarWorkshop\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Domain.dll
+P:\Solucje\CarWorkshop\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Application.pdb
+P:\Solucje\CarWorkshop\CarWorkshop.MVC\bin\Debug\net7.0\CarWorkshop.Domain.pdb
+P:\Solucje\CarWorkshop\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.csproj.CopyComplete
