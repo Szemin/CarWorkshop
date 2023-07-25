@@ -9,15 +9,19 @@ namespace CarWorkshop.Infrastructure.Persistence
 {
     public class CarWorkshopDBContext: DbContext  
     {
+        public CarWorkshopDBContext(DbContextOptions<CarWorkshopDBContext> options) : base(options) 
+        {
+                
+        }
         public DbSet<CarWorkshop.Domain.Entities.CarWorkshop> CarWorkshops { get; set; }  
         //DbSet prop representation table in database 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
-        //Overriding "OnConfiguring" method with connection string
-        {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CarWorkshopDb;Trusted_Connection=True;"); 
-            //connection string to local database
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
+        ////Overriding "OnConfiguring" method with connection string
+        //{
+        //    optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CarWorkshopDb;Trusted_Connection=True;"); 
+        //    //connection string to local database
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
